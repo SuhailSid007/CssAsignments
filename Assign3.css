@@ -1,0 +1,32 @@
+
+
+table{
+    width:1000px;
+    height: 100px;
+    border: 1px solid black;
+    border-spacing: 0px;
+ 
+}
+td{
+    border: 1px solid black;
+}
+.a{
+    text-align:left;
+}
+.b, h4{
+    text-align:center;
+
+}
+h4{
+    margin:0;
+}
+.c{
+    text-align:right;
+
+}
+.green{
+    background-color:green;
+}
+.voilet{
+background-color:blue;
+}
